@@ -1,12 +1,4 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": 48,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "import pandas as pd\n",
+ "import pandas as pd\n",
     "\n",
     "df = pd.read_csv('data-final.csv', delimiter=\"\\t\")"
    ]
